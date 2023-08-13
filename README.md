@@ -3,12 +3,6 @@
 Project Overview
 This project is an advanced inventory system with an integrated HUD and Main Menu. Each section, Main Menu, HUD, and Inventory, is carefully designed to offer intuitive user interaction and a seamless game experience.
 
-Main Menu Screenshot
-
-HUD Screenshot
-
-Inventory Screenshot
-
 Main Menu Design
 The primary entrance to the game is facilitated through the MainMenu Widget, activated once the “Main” level commences. The main menu is user-friendly with various buttons that provide the options such as:
 
